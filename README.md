@@ -1,6 +1,10 @@
 # Generative Models Tutorial using PyTorch
 
-This repository contains the code for finetuning a GPT-like large language model (LLM) in pure PyTorch.
+[colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
+[![Open In Colab][colab-badge]](https://colab.research.google.com/github/hasibzunair/ericsson-upskill-tutorials/blob/main/tensorflow_tutorial.ipynb)
+
+
+Tutorial materials for Ericsson AI & ML Upskill Program 2023-2024. It contains the tutorial code for finetuning a GPT-like large language model (LLM) in pure PyTorch. 
 
 ### Learning resources
 * [Intro to Large Language Models](https://youtu.be/zjkBMFhNj_g?si=bIVqXiQratJdqvhj)
