@@ -1,4 +1,4 @@
-# Generative Models Tutorial using PyTorch
+# Building and Applying Generative Models using PyTorch
 
 Tutorial materials for **Ericsson AI & ML Upskill Program 2023-2024**. It contains code for finetuning a GPT-like large language model (LLM) in pure PyTorch. 
 
