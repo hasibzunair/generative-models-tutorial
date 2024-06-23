@@ -1,6 +1,6 @@
 # Building and Applying Generative Models using PyTorch
 
-Tutorial materials for **Ericsson AI & ML Upskill Program 2023-2024**. It contains code for finetuning a GPT-like large language model (LLM) in pure PyTorch. 
+Tutorial materials for **Ericsson AI & ML Upskill Program 2023-2024**. It contains code for finetuning a GPT-like large language model (LLM) in PyTorch. 
 
 Materials for the previous program can be found [Ericsson AI & ML Upskill Program 2021](https://github.com/hasibzunair/intro-ml-tutorial).
 
